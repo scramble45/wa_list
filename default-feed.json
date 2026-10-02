@@ -17013,9 +17013,9 @@
     "lnx_boot": "https://archive.org/download/OpenEmuBIOSPack/OpenEmu%20BIOS%20Pack.zip/lynxboot.img",
     "neogeo_bios": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fneogeo.zip",
     "psx_bios": [
-      "https://archive.org/download/PlayStationBIOSFilesNAEUJP/scph5500.bin",
-      "https://archive.org/download/PlayStationBIOSFilesNAEUJP/scph5501.bin",
-      "https://archive.org/download/PlayStationBIOSFilesNAEUJP/scph5502.bin"
+      "https://archive.org/download/retroarch_bios_pack/extract_to_sytem_folder.zip/scph5500.bin",
+      "https://archive.org/download/retroarch_bios_pack/extract_to_sytem_folder.zip/scph5501.bin",
+      "https://archive.org/download/retroarch_bios_pack/extract_to_sytem_folder.zip/scph5502.bin"
     ],
     "segacd_bios": [
       "https://archive.org/download/OpenEmuBIOSPack/OpenEmu%20BIOS%20Pack.zip/BIOS_CD_E.BIN",
